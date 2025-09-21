@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Net & Serial Monitor
+Comment=Monitor ping and serial connectivity
+Exec=/usr/local/bin/net_serial_monitor
+Icon=/usr/local/share/pixmaps/net-serial-monitor-128.png
+Terminal=false
+Categories=Utility;Development;Network;
+StartupNotify=true
+TryExec=/usr/local/bin/net_serial_monitor
